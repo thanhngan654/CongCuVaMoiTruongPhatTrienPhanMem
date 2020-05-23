@@ -12,4 +12,7 @@ Phân công nhiệm vụ:
 
 Lợi: đã nhận nhiệm vụ (Đăng nhập, đăng ký, nộp bài hàng tuần)
 
+Thanh nhận nhiệm vụ: đăng ký, đăng nhập, thông báo
+
+Nhàn: nhận nhiệm vụ cập nhật thông tin,duyệt bài
 
