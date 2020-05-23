@@ -11,3 +11,5 @@ Phân công nhiệm vụ:
 	- Ngân thiết kế cơ sở dữ liệu, hỗ trợ ae fix bugs
 
 Lợi: đã nhận nhiệm vụ (Đăng nhập, đăng ký, nộp bài hàng tuần)
+
+Hữu Nhàn : đã nhận nhiệm vụ( chấm điểm duyệt báo cáo và nộp)
