@@ -9,3 +9,5 @@ Phân công nhiệm vụ:
 	- Lợi, Mạnh code chức năng sinh viên
 	- Thanh, Nhàn code chức năng giảng viên
 	- Ngân thiết kế cơ sở dữ liệu, hỗ trợ ae fix bugs
+
+Lợi: đã nhận nhiệm vụ (Đăng nhập, đăng ký, nộp bài hàng tuần)
