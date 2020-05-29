@@ -17,3 +17,4 @@ Thanh nhận nhiệm vụ: đăng ký, đăng nhập, thông báo
 Nhàn: nhận nhiệm vụ cập nhật thông tin,duyệt bài
 
 Mạnh: Nhận nhiệm vụ: cập nhập thông tin, xem giảng viên hướng dẫn, xem thông tin
+ ngân: ae làm trên trello và githubdesktop cho thuận tiện
